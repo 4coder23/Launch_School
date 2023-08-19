@@ -1,0 +1,9 @@
+
+welcome: "Welcome to Calculator! Enter your name:"
+valid_name: "Make sure to enter a valid name."
+num1: "What is your first number?"
+valid_num: "That is not a valid number."
+num2: "What is your second number?"
+choice: "Must choose 1, 2, 3, 4"
+denom: "Denominator can't be 0."
+recalc: "Do you want to perform another calculation? (Y for yes)"
