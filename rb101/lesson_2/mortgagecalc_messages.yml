@@ -1,0 +1,9 @@
+welcome: 'Hello, welcome to Mortgage Calculator!'
+loan_amount: 'What is the loan amount? Please round up to nearest dollar without a comma.'
+invalid_loanamount: 'Invalid number, please reenter your loan amount.'
+apr: 'What is the APR on your loan? (ex. if 5%, please enter 5)'
+invalid_apr: 'Invalid number, please reenter the APR.'
+loan_length: 'What is the loan duration in months?'
+invalid_loanlength: 'Invalid number, please reenter your loan duration in months.'
+recalc: 'Would you like to calculate again? Enter Y or N.'
+bye: "Good bye!"
