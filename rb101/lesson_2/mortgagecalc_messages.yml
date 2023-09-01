@@ -5,5 +5,7 @@ apr: 'What is the APR on your loan? (ex. if 5%, please enter 5)'
 invalid_apr: 'Invalid number, please reenter the APR.'
 loan_length: 'What is the loan duration in months?'
 invalid_loanlength: 'Invalid number, please reenter your loan duration in months.'
-recalc: 'Would you like to calculate again? Enter Y or N.'
-bye: "Good bye!"
+recalc: 'Would you like to calculate again? Enter yes or no.'
+bye: 'Good bye!'
+yes_recalc: "Let's calculate again!"
+invalid_answer: "Invalid answer. Answer yes or no."
