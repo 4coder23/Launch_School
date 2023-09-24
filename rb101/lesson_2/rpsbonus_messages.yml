@@ -2,15 +2,15 @@ greeting: "Let's play Rock, Paper, Scissors, Spock, Lizard!"
 prompt_name: "What is your name?"
 valid_name: "Please enter a valid name."
 game_rule: |
-    Please use the following initials.
-    "r" for rock
-    "p" for paper
-    "s" for scissors
-    "sp" for spock
-    "l" for lizard
+    Please enter one of the following:
+    "r" or "rock" for rock
+    "p" or "paper" for paper
+    "s" or "scissors" for scissors
+    "sp" or "spock" for spock
+    "l" or "lizard" for lizard
     Enter your choice:
 valid_choice: "That is not a valid choice.  Please enter again."
 you_win: "YOU'RE THE GRAND WINNER!"
 computer_win: "COMPUTER IS THE GRAND WINNER!"
 replay: "Do you want to play again? Answer yes or no."
-goodbye: 'Thank you for playing. Good bye!'
+valid_replay_choice: "Tht is not a valid choice. Pleae enter again."
