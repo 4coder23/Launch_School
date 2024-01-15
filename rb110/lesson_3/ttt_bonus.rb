@@ -198,7 +198,7 @@ def display_scoreboard(scoreboard)
 end
 
 def display_grand_winner(name, scoreboard)
-  if scoreboard['Player'] == 3
+  if scoreboard['Player'] == 5
     prompt "#{name} is the grand winner!"
   else
     prompt "Computer is the grand winner!"
